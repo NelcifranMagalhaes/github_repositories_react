@@ -13,7 +13,7 @@ export const GlobalStyle =  createGlobalStyle`
   }
 
   body {
-    background: green;
+    background: grey;
     -webkit-font-smoothing: antialiased !important;
   }
 
